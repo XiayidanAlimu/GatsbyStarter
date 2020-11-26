@@ -97,3 +97,10 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
++ install node, gatsby
++ gatsby develop
+
+1. 了解Gatsby的构建模块
+2. 如何在Gatsby中添加CSS样式
+3. 
