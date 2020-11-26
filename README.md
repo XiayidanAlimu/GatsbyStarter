@@ -103,4 +103,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 1. 了解Gatsby的构建模块
 2. 如何在Gatsby中添加CSS样式
-3. 
+3. 学习 Gatsby 插件的使用和创建 “布局” (Layout) 组件
+ + Gatsby 插件是用于向 Gatsby 网站添加功能的 JavaScript 包。 Gatsby 被设计为可扩展的，这意味着插件也是像 Gatsby 一样是可以扩展和修改的。
+ + 布局组件用于你要在多个页面上共享的网站公共部分。例如，站点通常有公共的页眉和页脚的布局组件。其他常见的要添加到布局的公共的内容是是侧边栏或导航菜单
